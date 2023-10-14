@@ -1,7 +1,8 @@
 <h1>Hi, I'm Jimmy! <br/>
 
 <h2>👨‍💻 Computer Science Projects:</h2>
-
+<p>Student Roster:</p>
+<p></p>
 <h2> 🤳 Connect with me:</h2>
 
 
